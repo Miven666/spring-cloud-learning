@@ -9,3 +9,6 @@
 
 ## Spring-Cloud-Feign
 - 伪RPC消费服务(基于接口的注解)
+
+## Spring-Cloud-Hystrix
+- 熔断器
