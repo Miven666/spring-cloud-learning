@@ -12,3 +12,6 @@
 
 ## Spring-Cloud-Hystrix
 - 熔断器
+
+## Spring-Cloud-Zuul
+- 网关路由(路由、过滤、安全验证)
