@@ -6,3 +6,6 @@
 
 ## Spring-Cloud-Ribbon
 - 软负载均衡(restTemplate方式)
+
+## Spring-Cloud-Feign
+- 伪RPC消费服务(基于接口的注解)
