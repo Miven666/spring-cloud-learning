@@ -9,7 +9,13 @@ spring:
       server:
         git:
           uri: https://github.com/Miven666/SpringCloudLearningConfig
-          search-paths: respo
+          search-paths:
           username:
           password:
       label: master
+
+# 服务注册中心地址
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8700/eureka/
