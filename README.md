@@ -15,3 +15,6 @@
 
 ## Spring-Cloud-Zuul
 - 网关路由(路由、过滤、安全验证)
+
+## Spring-Cloud-Config
+- 分布式配置中心
