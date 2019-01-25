@@ -18,3 +18,6 @@
 
 ## Spring-Cloud-Config
 - 分布式配置中心
+
+## Spring-Cloud-Bus
+- 消息总线
