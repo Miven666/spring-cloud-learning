@@ -21,3 +21,6 @@
 
 ## Spring-Cloud-Bus
 - 消息总线
+
+## Spring-Cloud-Sleuth
+- 服务链路追踪
