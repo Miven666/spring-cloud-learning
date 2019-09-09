@@ -3,9 +3,8 @@
 *.iws
 *.iml
 *.ipr
-
 # Compiled class file
-/target/
+/*/target/
 !.mvn/wrapper/maven-wrapper.jar
 *.class
 
