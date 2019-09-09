@@ -11,7 +11,7 @@
     <description>Demo project for Eureka Server</description>
 
     <parent>
-        <groupId>cn.miven.spring.cloud</groupId>
+        <groupId>com.miven.spring.cloud</groupId>
         <artifactId>spring-cloud-learning</artifactId>
         <version>1.0</version>
     </parent>

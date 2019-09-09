@@ -4,16 +4,15 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>cn.miven.spring.cloud.feign</groupId>
-    <artifactId>feign-service</artifactId>
+    <artifactId>hystrix-service</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>feign-service</name>
+    <name>hystrix-service</name>
     <description>Demo project for Feign</description>
 
     <parent>
-        <groupId>cn.miven.spring.cloud</groupId>
+        <groupId>com.miven.spring.cloud</groupId>
         <artifactId>spring-cloud-learning</artifactId>
         <version>1.0</version>
     </parent>
@@ -21,12 +20,12 @@
     <dependencies>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-eureka</artifactId>
+            <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
         </dependency>
 
         <dependency>
             <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-feign</artifactId>
+            <artifactId>spring-cloud-starter-openfeign</artifactId>
         </dependency>
 
         <dependency>
